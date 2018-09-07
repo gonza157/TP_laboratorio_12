@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1523649357 source:c:\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523649397 c:\tp_1_cascara\funciones.h
+
+1523565398 source:d:\programacion\tp_progreso2\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523564540 d:\programacion\tp_progreso2\tp_1_cascara\funciones.h
+
+1523589841 source:c:\tp_progreso2\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523564540 c:\tp_progreso2\tp_1_cascara\funciones.h
+
+1536292203 source:c:\tp_progreso4\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536290374 c:\tp_progreso4\tp_1_cascara\funciones.h
+	"funciones.c"
+
+1536286426 c:\tp_progreso4\tp_1_cascara\funciones.c
+
+1536286426 source:c:\tp_progreso4\tp_1_cascara\funciones.c
+
+1536286428 source:c:\tp_progreso4(final)\tp_1_cascara\funciones.c
+
+1536331562 source:c:\tp_progreso4(final)\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536290376 c:\tp_progreso4(final)\tp_1_cascara\funciones.h
+	"funciones.c"
+
+1536286428 c:\tp_progreso4(final)\tp_1_cascara\funciones.c
+
