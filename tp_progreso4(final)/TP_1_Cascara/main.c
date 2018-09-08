@@ -15,13 +15,12 @@ int main()
     float resultado4=0;
     float resultado5=0;
 
-
     while(seguir=='s')
     {
         printf("1- Ingresar 1er operando (A=%.0f)\n",a);
         printf("2- Ingresar 2do operando (B=%.0f)\n",b);
         printf("3- Calcular todas las operaciones \n");
-        printf("4- Los resultados de los calculos son: \n");
+        printf("4- Los resultados de las operaciones \n");
         printf("5- Salir\n");
 
         scanf("%d",&opcion);
@@ -30,9 +29,11 @@ int main()
         {
         case 1:
             a=tomarvalor();
+            printf("\n\n");
             break;
         case 2:
             b=tomarvalor();
+            printf("\n\n");
             break;
         case 3:
             resultado=suma(a,b);
@@ -42,10 +43,11 @@ int main()
             if(a>1){
             resultado4=factorial(a);
             }
-
-
+            printf("\n\n");
             break;
         case 4:
+            printf("\t\tlos resultados son:\n");
+            printf("\t\t------------------\n\n");
             printf("La suma es: %.2f\n",resultado);
             printf("La resta es: %.2f\n",resultado1);
             printf("El producto es: %.2f\n",resultado2);
@@ -90,6 +92,7 @@ int main()
                     printf("El factoreal no se puede hacer por negativos\n");
                 }
             }
+            printf("\n\n");
             break;
 
         case 5:
